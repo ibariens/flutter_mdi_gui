@@ -1,8 +1,11 @@
 name: flutter_mdi_gui
 description: "A Multi-Document Interface for Flutter."
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/ibariens/flutter_mdi_gui
 repository: https://github.com/ibariens/flutter_mdi_gui
+screenshots:
+  - description: "This animated GIF shows the example app in action."
+    path: recordings/flutter_mdi_gui-1731675851519.gif
 
 environment:
   sdk: ^3.5.3

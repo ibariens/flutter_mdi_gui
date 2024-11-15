@@ -26,7 +26,8 @@ class _MyAppState extends State<MyApp> {
           body: FlutterMdiGui(
             mdiConfig: const MdiConfig(
               borderRadius: 3.0,
-              defaultHeaderColor: Colors.blueAccent,
+              defaultBodyColor: Color.fromRGBO(255, 255, 255, 0.9),
+              defaultHeaderColor: Color.fromRGBO(12, 12, 255, 0.3),
             ),
             child: Builder(builder: (context) {
               return Center(
