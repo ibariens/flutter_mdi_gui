@@ -95,7 +95,7 @@ TextButton(
   
 
 ## Screenshot
-![Sample app in action](https://github.com/ibariens/flutter_mdi_gui/recordings/flutter_mdi_gui-1731675851519.gif)
+![Sample app in action](https://github.com/ibariens/flutter_mdi_gui/blob/main/recordings/flutter_mdi_gui-1731675851519.gif)
 
 ## Thanks
 Thank you for using this package and keep supporting opensource community.
