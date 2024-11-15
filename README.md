@@ -57,6 +57,7 @@ MaterialApp(
             ),
             child: Text("your app comes here")
     ),
+  )
 );
 ```
 
@@ -100,10 +101,5 @@ TextButton(
 ## Thanks
 Thank you for using this package and keep supporting opensource community.
 
-[license_badge]: https://img.shields.io/badge/license-BSD-blue.svg
-
-[license_link]: https://opensource.org/licenses/BSD
-
-[hyper_lint_badge]: https://img.shields.io/badge/style-hyper_lint-ee7600.svg
-
-[hyper_lint_link]: https://pub.dev/packages/hyper_lint
+[license_badge]: https://img.shields.io/badge/license-MIT-blue.svg
+[license_link]: https://opensource.org/licenses/mit
